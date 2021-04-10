@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(L2_Radu_Daria_Aufgabe1)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(L2_Radu_Daria_Aufgabe1 L2_Radu_Daria_AufgabeA_rational_test.cpp L2_Radu_Daria_AufgabeA_rational.cpp L2_Radu_Daria_AufgabeA_rational.h)
